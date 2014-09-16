@@ -1,1 +1,0 @@
-this is where your generated projects should go: Go to BackOffice/ClientGenerator and generate there.

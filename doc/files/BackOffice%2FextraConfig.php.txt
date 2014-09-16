@@ -1,8 +1,0 @@
-<?php
-
-
-$this->backOfficeCredentials['a'] = 'a';
-$this->amfphpEntryPointPath = '../Tests/TestData/';
-
-?>
-
